@@ -6,3 +6,5 @@ apple
 grapes
 oranges
 cereal
+carrot
+pepper
